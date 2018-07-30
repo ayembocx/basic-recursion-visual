@@ -1,0 +1,17 @@
+{
+  "name": "swamp",
+  "version": "1.0.0",
+  "description": "recursion guide",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "Ayem Kpenkaan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {}
+}
